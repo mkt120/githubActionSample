@@ -1,0 +1,2 @@
+# githubActionSample
+GithubActionのためのサンプルです
