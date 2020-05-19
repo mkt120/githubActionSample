@@ -1,2 +1,4 @@
 # githubActionSample
 GithubActionのためのサンプルです
+
+何かコミットしないとActionは動作しない？
